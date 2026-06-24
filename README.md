@@ -103,7 +103,7 @@ services.AddBYOKClient(options =>
 });
 ```
 
-Then inject `IChatClient` anywhere — always pass `ModelId` with the route:
+Then inject `IChatClient` anywhere:
 
 ```csharp
 public class MyService(IChatClient chatClient)
