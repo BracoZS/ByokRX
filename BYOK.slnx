@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/Elementos de la solución/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="BYOK.Anthropic/BYOK.Anthropic.csproj" />
+  <Project Path="BYOK.Core/BYOK.Core.csproj" />
+  <Project Path="BYOK.OpenAI/BYOK.OpenAI.csproj" />
+  <Project Path="Demo/Demo.csproj" Id="b69cf49f-0e8d-4f71-ab52-23d776560fd8" />
+</Solution>
